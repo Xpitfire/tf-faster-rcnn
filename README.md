@@ -57,7 +57,7 @@ Additional features not mentioned in the [report](https://arxiv.org/pdf/1702.021
 ### Installation
 1. Clone the repository
   ```Shell
-  git clone https://github.com/endernewton/tf-faster-rcnn.git
+  git clone https://github.com/Xpitfire/tf-faster-rcnn
   ```
 
 2. Update your -arch in setup script to match your GPU
